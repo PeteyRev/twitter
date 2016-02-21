@@ -18,4 +18,4 @@ class DatabaseSeeder extends Seeder
             $u->likes()->attach($post);
         });
     }
-}  
+}
